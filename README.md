@@ -1,4 +1,4 @@
-# Besos de luna llena
+# Besos de luna llena, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Besos de luna llena |
+| **Title** | Besos de luna llena, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-de-luna-llena/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Besos de luna llena](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-luna-llena/) |
+| **Get License** | [Obtain a Music License for Besos de luna llena, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-luna-llena/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tú me miras así y me pierdo en la noche
+> Bailando en la calle, brillando en el coche
+> Tus labios me llaman, me queman la piel
+> Un beso salvaje que sabe a la miel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `65cf92d4184a771d45d9b4055ab02f58c15cc346372c8ee296d3050e5d67d610` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
